@@ -109,6 +109,11 @@ main {
     text-align: center;
 }
 
+.collage:hover{
+        transform: rotate(360deg);
+    transition: all 2s;
+}
+
 .collage {
     width: 80%;
     height: 80%;
